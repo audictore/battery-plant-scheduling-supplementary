@@ -1,0 +1,17 @@
+{
+ "binaria": {
+  "escala": 1.0,
+  "pop": 200,
+  "rel_ajuste": 1.0041179628141497
+ },
+ "permutacion": {
+  "escala": 0.25,
+  "pop": 200,
+  "rel_ajuste": 1.0043463681469296
+ },
+ "llaves": {
+  "escala": 0.5,
+  "pop": 200,
+  "rel_ajuste": 1.006378206543037
+ }
+}

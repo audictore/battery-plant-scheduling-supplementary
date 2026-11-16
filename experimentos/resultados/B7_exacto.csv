@@ -1,0 +1,11 @@
+instancia,variante,estado,makespan,cota_cpsat,cota_capacidad,segundos,limite_s,hilos,semilla,makespan_pista,segundos_pista
+bat_G1,sin_pista,FEASIBLE,979,679,885,300.06,300.0,8,1,973,0.17
+bat_G1,con_pista,FEASIBLE,959,680,885,300.17,300.0,8,1,973,0.17
+bat_G2,sin_pista,FEASIBLE,1864,689,1686,300.09,300.0,8,1,1775,0.52
+bat_G2,con_pista,FEASIBLE,1773,715,1686,300.05,300.0,8,1,1775,0.52
+bat_G3,sin_pista,FEASIBLE,2837,708,2425,300.17,300.0,8,1,2562,0.89
+bat_G3,con_pista,FEASIBLE,2562,736,2425,300.16,300.0,8,1,2562,0.89
+bat_G4,sin_pista,FEASIBLE,8252,831,3226,300.48,300.0,8,1,3394,1.32
+bat_G4,con_pista,FEASIBLE,3375,834,3226,300.38,300.0,8,1,3394,1.32
+bat_G5,sin_pista,FEASIBLE,11158,935,3965,300.46,300.0,8,1,4179,1.81
+bat_G5,con_pista,FEASIBLE,4177,945,3965,300.21,300.0,8,1,4179,1.81

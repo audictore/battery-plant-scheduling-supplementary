@@ -1,0 +1,16 @@
+{
+ "binaria/uniforme": {
+  "metodo": "binaria",
+  "cruza": "uniforme",
+  "escala": 1.0,
+  "pop": 100,
+  "rel_ajuste": 1.0039047476025398
+ },
+ "llaves/dos_puntos": {
+  "metodo": "llaves",
+  "cruza": "dos_puntos",
+  "escala": 2.0,
+  "pop": 200,
+  "rel_ajuste": 1.0087500930090445
+ }
+}

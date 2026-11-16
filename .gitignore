@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+experimentos/jsp_ag/build/
+fuente/

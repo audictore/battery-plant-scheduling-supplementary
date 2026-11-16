@@ -1,0 +1,26 @@
+{
+ "binaria": {
+  "torneo": 2,
+  "elite": 0,
+  "pc": 1.0,
+  "sigma": 0.15,
+  "rel_confirmacion": 1.0003770076950886,
+  "rel_partida": 1.0482135647185333
+ },
+ "permutacion": {
+  "torneo": 5,
+  "elite": 0,
+  "pc": 1.0,
+  "sigma": 0.15,
+  "rel_confirmacion": 1.0020159651527596,
+  "rel_partida": 1.0097406562596993
+ },
+ "llaves": {
+  "torneo": 3,
+  "elite": 0,
+  "pc": 1.0,
+  "sigma": 0.3,
+  "rel_confirmacion": 1.0054826323425128,
+  "rel_partida": 1.0396760980280282
+ }
+}
